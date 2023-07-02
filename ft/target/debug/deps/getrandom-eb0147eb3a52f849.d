@@ -1,0 +1,11 @@
+/Users/azerc/Desktop/NEAR/_LUDIUM/PART2/ludium-near-ft/ft/target/debug/deps/getrandom-eb0147eb3a52f849.rmeta: /Users/azerc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/lib.rs /Users/azerc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/error.rs /Users/azerc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/util.rs /Users/azerc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/error_impls.rs /Users/azerc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/util_libc.rs /Users/azerc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/use_file.rs /Users/azerc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/macos.rs
+
+/Users/azerc/Desktop/NEAR/_LUDIUM/PART2/ludium-near-ft/ft/target/debug/deps/getrandom-eb0147eb3a52f849.d: /Users/azerc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/lib.rs /Users/azerc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/error.rs /Users/azerc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/util.rs /Users/azerc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/error_impls.rs /Users/azerc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/util_libc.rs /Users/azerc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/use_file.rs /Users/azerc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/macos.rs
+
+/Users/azerc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/lib.rs:
+/Users/azerc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/error.rs:
+/Users/azerc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/util.rs:
+/Users/azerc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/error_impls.rs:
+/Users/azerc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/util_libc.rs:
+/Users/azerc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/use_file.rs:
+/Users/azerc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/macos.rs:
