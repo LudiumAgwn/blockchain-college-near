@@ -38,35 +38,35 @@ NFT 발행 컨트랙트를 작성하고 발행된 NFT를 사용자가 민팅할 
 
 NFT 로열티를 설정하고 키 승인이 가능한 페이지를 만드세요. 컨트랙트를 통한 로열티 설정과 키 승인 구조를 다룹니다.
 
-[**Misson 4 수행 페이지 바로가기**](https://github.com/LudiumAgwn/BCN-Mission6)
+[**Misson 6 수행 페이지 바로가기**](https://github.com/LudiumAgwn/BCN-Mission6)
 
 ---
 ## Mission 7 - 거래소 기능 구현하기
 
 NFT를 리스팅하고 거래할 수 있는 페이지를 만드세요. NFT 리스팅과 거래 기능과 상호 작용하는 컨트랙트와 이를 시현하는 프론트엔드 페이지 제작 방법을 다룹니다.
 
-[**Misson 4 수행 페이지 바로가기**](https://github.com/LudiumAgwn/BCN-Mission7)
+[**Misson 7 수행 페이지 바로가기**](https://github.com/LudiumAgwn/BCN-Mission7)
 
 --- 
 ## Mission 8 - 토큰 거버넌스 디앱 만들기
 
 토큰을 활용해서 제안을 올리고 토큰 투표로 승인이 이뤄지는 페이지를 구현하세요. 토큰 투표 승인 컨트랙트 구조와 페이지 제작 방법을 다룹니다.
 
-[**Misson 4 수행 페이지 바로가기**](https://github.com/LudiumAgwn/BCN-Mission8)
+[**Misson 8 수행 페이지 바로가기**](https://github.com/LudiumAgwn/BCN-Mission8)
 
 ---
 ## Mission 9 - 에어드랍 페이지 만들기
 
 기준에 따라 토큰을 받을 수 있는 에어드랍 페이지를 만드세요. 에어드랍 컨트랙트 작성법과 수집된 온체인 데이터에 따라 토큰 배포가 가능한 기능 구현 방법을 다룹니다.
 
-[**Misson 4 수행 페이지 바로가기**](https://github.com/LudiumAgwn/BCN-Mission9)
+[**Misson 9 수행 페이지 바로가기**](https://github.com/LudiumAgwn/BCN-Mission9)
 
 ---
 ## Mission 10 - BOS 게이트웨이 만들기
 
 BOS 게이트웨이를 제작해서 디앱 페이지를 만드세요. BOS를 활용한 컨트랙트 호출 방법과 게이트웨이 제작, 프론트페이지 연결 방법을 다룹니다.
 
-[**Misson 4 수행 페이지 바로가기**](https://github.com/LudiumAgwn/BCN-Mission10)
+[**Misson 10 수행 페이지 바로가기**](https://github.com/LudiumAgwn/BCN-Mission10)
 
 ---
 ## 기여하기
